@@ -1,0 +1,11 @@
++ {
++   "name": "Legacy Block",
++   "website": "https://humanitynodes.co",
++    "description": "Legacy Block on Binance Smart Chain",
++    "explorer": "https://https://bscscan.com/token/0x5c4fdfa0fb5ef307e6e891df1ff9a2c3154d46c6",
++   "symbol": "BLCK",
++   "type": "BEP20",
++    "decimals": 8,
++   "status": "active",
++   "id": "0x5c4fdfa0fb5ef307e6e891df1ff9a2c3154d46c6"
++}
